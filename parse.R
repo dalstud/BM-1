@@ -1,1 +1,1 @@
-bm <- read.csv("bm2.csv")
+bm <- read.csv("bm2.csv",sep=";")
